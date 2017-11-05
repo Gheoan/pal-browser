@@ -28,7 +28,6 @@ paths.files = [
   'platform.js',
   'performance.js',
   'feature.js',
-  'html-template-element.js',
   'dom.js',
   'index.js'
 ].map(function(file){

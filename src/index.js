@@ -4,7 +4,6 @@ import {_FEATURE} from './feature';
 import {_DOM} from './dom';
 // DOM polyfills
 // Actually inlined by our build because of build/paths.js but `import "m"` is not properly removed!?
-// import './html-template-element';
 // import './performance';
 
 /**
