@@ -2,8 +2,6 @@ import {initializePAL, isInitialized} from 'aurelia-pal';
 import {_PLATFORM} from './platform';
 import {_FEATURE} from './feature';
 import {_DOM} from './dom';
-// DOM polyfills
-// Actually inlined by our build because of build/paths.js but `import "m"` is not properly removed!?
 
 /**
 * Initializes the PAL with the Browser-targeted implementation.
