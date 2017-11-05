@@ -6,7 +6,6 @@ import {_DOM} from './dom';
 // Actually inlined by our build because of build/paths.js but `import "m"` is not properly removed!?
 // import './function-name';
 // import './html-template-element';
-// import './element-matches';
 // import './performance';
 
 /**
