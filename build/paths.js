@@ -26,7 +26,6 @@ var paths = {
 
 paths.files = [
   'platform.js',
-  'function-name.js',
   'performance.js',
   'feature.js',
   'html-template-element.js',
