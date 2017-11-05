@@ -27,7 +27,6 @@ var paths = {
 paths.files = [
   'platform.js',
   'function-name.js',
-  'class-list.js',
   'performance.js',
   'console.js',
   'custom-event.js',

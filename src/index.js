@@ -9,7 +9,6 @@ import {_DOM} from './dom';
 // import './function-name';
 // import './html-template-element';
 // import './element-matches';
-// import './class-list';
 // import './performance';
 
 /**
