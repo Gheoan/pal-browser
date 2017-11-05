@@ -28,7 +28,6 @@ paths.files = [
   'platform.js',
   'function-name.js',
   'performance.js',
-  'custom-event.js',
   'element-matches.js',
   'feature.js',
   'html-template-element.js',
