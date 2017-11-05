@@ -26,7 +26,6 @@ var paths = {
 
 paths.files = [
   'platform.js',
-  'performance.js',
   'feature.js',
   'dom.js',
   'index.js'
